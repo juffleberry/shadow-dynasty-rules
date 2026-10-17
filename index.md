@@ -1,8 +1,3 @@
----
-title: The Shadow Dynasty — League Constitution
-layout: default
----
-
 # An Extraordinary Dynasty of Fantasy Gentlemen
 
 **The Shadow Dynasty** league constitution — Sleeper | Dynasty | Best Ball | Superflex
